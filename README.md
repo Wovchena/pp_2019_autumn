@@ -71,7 +71,7 @@ Navigate to a source code folder.
 
 2) Build the project:
   ```
-  cmake --build . --config RELEASE -- -j4
+  cmake --build . --config RELEASE
   ```
 3) Run `<project's folder>/build/bin`
 
